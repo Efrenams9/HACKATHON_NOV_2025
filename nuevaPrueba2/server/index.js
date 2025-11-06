@@ -47,9 +47,33 @@ app.get("/",(req,res)=>{ //req y res es para preguntar y responder
 //*CREACION DE LO S ENDPOINTS
 
 app.get("/tiendas", (req, res)=>{
-  const data = readData();c
+  const data = readData();
   res.json(data);
 });
+
+app.get("/tiendas/:id",(req,res)=>{
+  const data= readData();
+  const id = parseInt(req.params.id);
+  const tienda = data[id]
+  res.json(tienda);
+});
+
+app.post("/tiendas",(req,res)=>{
+  const data = readData();
+  const body = req.body;
+  const maxId = data.length > 0 ? Math.max(...data.map(item => item.id)) : 0;
+  const newTienda = {
+    id: maxId+1,
+    ...body,
+  };
+  //agregar el valor al array
+  data.push(newTienda);
+
+  writeData(data);
+  res.json(newTienda);
+});
+
+
 app.listen(3000,()=>{ //nos encargamos de .listen para escuchar todo lo que se
   //transmita a la app
   console.log("server listening on port 3000");

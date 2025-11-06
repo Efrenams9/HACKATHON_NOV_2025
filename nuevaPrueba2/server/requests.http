@@ -1,0 +1,19 @@
+GET http://localhost:3000/tiendas HTTP/1.1
+
+###
+
+GET http://localhost:3000/tiendas/3 HTTP/1.1
+
+###
+
+POST http://localhost:3000/tiendas HTTP/1.1
+Content-Type: application/json;
+
+{
+    "store":"Tienda 10",
+    "business_unit": "ACCESORIOS",
+    "year": 2024,
+    "month": "Abril",
+    "sales_units":1000,
+    "inventory_units":2000
+}
