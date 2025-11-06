@@ -1,0 +1,182 @@
+[
+  {
+    "id": 112,
+    "store": "Tienda 2",
+    "business_unit": "ACCESORIOS",
+    "year": 2023,
+    "month": "Abril",
+    "sales_units": 485,
+    "inventory_units": 2747
+  },
+  {
+    "id": 760,
+    "store": "Tienda 13",
+    "business_unit": "TENNIS DEPORTIVOS",
+    "year": 2023,
+    "month": "Abril",
+    "sales_units": 46233,
+    "inventory_units": 158877
+  },
+  {
+    "id": 612,
+    "store": "Tienda 11",
+    "business_unit": "CALZADO CASUAL HOMBRE",
+    "year": 2023,
+    "month": "Diciembre",
+    "sales_units": 39605,
+    "inventory_units": 76520
+  },
+  {
+    "id": 930,
+    "store": "Tienda 16",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2023,
+    "month": "Junio",
+    "sales_units": 24169,
+    "inventory_units": 69871
+  },
+  {
+    "id": 423,
+    "store": "Tienda 8",
+    "business_unit": "CALZADO CASUAL HOMBRE",
+    "year": 2023,
+    "month": "Marzo",
+    "sales_units": 101905,
+    "inventory_units": 181517
+  },
+  {
+    "id": 57,
+    "store": "Tienda 1",
+    "business_unit": "ACCESORIOS",
+    "year": 2023,
+    "month": "Septiembre",
+    "sales_units": 392,
+    "inventory_units": 2609
+  },
+  {
+    "id": 1928,
+    "store": "Tienda 16",
+    "business_unit": "CALZADO CASUAL HOMBRE",
+    "year": 2024,
+    "month": "Agosto",
+    "sales_units": 92651,
+    "inventory_units": 178780
+  },
+  {
+    "id": 1212,
+    "store": "Tienda 4",
+    "business_unit": "CALZADO CASUAL HOMBRE",
+    "year": 2024,
+    "month": "Diciembre",
+    "sales_units": 119653,
+    "inventory_units": 185271
+  },
+  {
+    "id": 1704,
+    "store": "Tienda 12",
+    "business_unit": "CALZADO CASUAL MUJER",
+    "year": 2024,
+    "month": "Diciembre",
+    "sales_units": 139851,
+    "inventory_units": 189319
+  },
+  {
+    "id": 1466,
+    "store": "Tienda 8",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2024,
+    "month": "Febrero",
+    "sales_units": 23685,
+    "inventory_units": 55530
+  },
+  {
+    "id": 1651,
+    "store": "Tienda 11",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2024,
+    "month": "Julio",
+    "sales_units": 12907,
+    "inventory_units": 29335
+  },
+  {
+    "id": 1627,
+    "store": "Tienda 11",
+    "business_unit": "CALZADO CASUAL HOMBRE",
+    "year": 2024,
+    "month": "Julio",
+    "sales_units": 22833,
+    "inventory_units": 69150
+  },
+  {
+    "id": 1638,
+    "store": "Tienda 11",
+    "business_unit": "CALZADO CASUAL MUJER",
+    "year": 2024,
+    "month": "Junio",
+    "sales_units": 19837,
+    "inventory_units": 63642
+  },
+  {
+    "id": 1458,
+    "store": "Tienda 8",
+    "business_unit": "CALZADO CASUAL MUJER",
+    "year": 2024,
+    "month": "Junio",
+    "sales_units": 70516,
+    "inventory_units": 190103
+  },
+  {
+    "id": 1973,
+    "store": "Tienda 16",
+    "business_unit": "ACCESORIOS",
+    "year": 2024,
+    "month": "Mayo",
+    "sales_units": 464,
+    "inventory_units": 3160
+  },
+  {
+    "id": 1533,
+    "store": "Tienda 9",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2024,
+    "month": "Septiembre",
+    "sales_units": 11767,
+    "inventory_units": 46696
+  },
+  {
+    "id": 1845,
+    "store": "Tienda 14",
+    "business_unit": "TENNIS DEPORTIVOS",
+    "year": 2024,
+    "month": "Septiembre",
+    "sales_units": 11063,
+    "inventory_units": 78498
+  },
+  {
+    "id": 2309,
+    "store": "Tienda 11",
+    "business_unit": "TENNIS DEPORTIVOS",
+    "year": 2025,
+    "month": "Abril",
+    "sales_units": 41252,
+    "inventory_units": 178743
+  },
+  {
+    "id": 2403,
+    "store": "Tienda 15",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2025,
+    "month": "Marzo",
+    "sales_units": 18320,
+    "inventory_units": 76286
+  },
+  {
+    "id": 2355,
+    "store": "Tienda 13",
+    "business_unit": "CALZADO NIÑOS",
+    "year": 2025,
+    "month": "Mayo",
+    "sales_units": 14585,
+    "inventory_units": 53923
+  }
+]
