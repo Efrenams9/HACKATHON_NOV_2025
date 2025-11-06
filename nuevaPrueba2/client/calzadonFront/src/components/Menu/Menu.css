@@ -1,0 +1,13 @@
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+    gap: 15px; /* Espacio entre botones */
+    background-color: #acb5c1; /* Azul IBM-like */
+    padding: 10px 0;
+     position: sticky; /* Siempre visible */
+    bottom: 40%; /* Ajusta según la altura de la barra superior o NavBar */
+    z-index: 1000; /* Que quede encima de otros elementos */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
